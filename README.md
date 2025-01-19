@@ -12,3 +12,13 @@ short_description: 'loss '
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+##Training log:
+
+![Alt Text](loss.log.png)
+
+
+##Sample Output:
+
+![Alt Text](Sample_output.png)
